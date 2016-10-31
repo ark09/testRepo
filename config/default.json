@@ -1,0 +1,7 @@
+{
+    "appSecret": "a9a70369bd7f03bedebca887dbe729e2",
+    "pageAccessToken": "EAAErGEic16IBABsRgw86hvi0xRc0eKDjqPWkwcui0wvMaRTrzKgrwVbTOknBXf13DaO37pSU5Nl0MZAVDm4VQIUSBsEJ65DTlNq6LZBPHZCGq4YAyX2wh0rKtzehBjpH4T6rtATZAgmkcFROy7F8ojhsQnqQq5BWZCUbfU1rFRQZDZD",
+    "validationToken": "my_verify_token",
+    "serverURL": "https://50e84aa7.ngrok.io",
+	"port":"8088"
+}
